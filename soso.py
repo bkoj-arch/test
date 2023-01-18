@@ -1,0 +1,1 @@
+print("Wesh le sang")
